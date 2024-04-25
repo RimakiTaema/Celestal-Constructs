@@ -1,2 +1,2 @@
-# Secondyou-s-Modded-Pack
-# Secondyou-s-Modded-Pack
+# Secondyou Modded Pack
+## Now Open Source (Kind Of)
