@@ -1,2 +1,3 @@
 # Secondyou Modded Pack
-## Now Open Source (Kind Of)
+
+## Info In Modrinth
