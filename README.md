@@ -80,12 +80,12 @@ Crashes/Breaking Problems
 <summary>PC Specs</summary>
 Allocated RAM: <br>
 Minimum: 3GB <br>
-Recommended: 6GB
+Recommended: 6GB<br>
 <br>
 CPU:<br>
 Minimum: Core i3-6100 Or AMD Athlon 3000G<br>
 Recommended: Core i5-11400 Or AMD Ryzen 5 5000<br>
-
+<br>
 GPU:<br>
 Minimum: Integrated GPU<br>
 Recommended: Nvidia GeForce GTX 1080 Ti Or Radeon 6800 XT<br>
@@ -97,13 +97,13 @@ Recommended: Nvidia GeForce GTX 1080 Ti Or Radeon 6800 XT<br>
 RAM:<br>
 Min: 4GB<br>
 Rec: 6GB<br>
-
+<br>
 CPU:<br>
 Minimum:<br>
 SD 645 MT Helio G80 Or Exynos 880
 Recommended:<br>
 Dimensity 9300<br>
-
+<br>
 GPU<br>
 Minimum: Adreno 210<br>
 Recommended: ``best phone gpu`` (Not Mobile GPU < #19)
@@ -113,17 +113,17 @@ Recommended: ``best phone gpu`` (Not Mobile GPU < #19)
 ## Installation Tutorial
 On the Modrinth app:
 ---
-1. Go on the search tab
-2. Look for "secondyous modded pack"
-3. Hit install
+1. Go on the search tab<br>
+2. Look for "secondyous modded pack"<br>
+3. Hit install<br>
 
 On PoJav:
 ---
-1. Go on the "Create New Profile" tab
-2. Click Create Modpack Profile
-3. Look for "secodyous modded pack"
-4. Click the modpack
-5. Hit install
+1. Go on the "Create New Profile" tab<br>
+2. Click Create Modpack Profile<br>
+3. Look for "Secondyou's Modded Pack"<br>
+4. Click the modpack<br>
+5. Hit install<br>
 
 
 Use my modpack if you're on mobile or on a low-end pc!
