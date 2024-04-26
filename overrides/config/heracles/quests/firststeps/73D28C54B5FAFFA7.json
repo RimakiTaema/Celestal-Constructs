@@ -1,0 +1,60 @@
+{
+  "dependencies": [
+    "62E34361AE1D66C6",
+    "639F3EE91A1E9752"
+  ],
+  "tasks": {
+    "285D8EB12DD2F842": {
+      "title": "Recommend Ore Levels",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "<task task=\"285D8EB12DD2F842\" quest=\"73D28C54B5FAFFA7\"/>",
+      "<hr/>",
+      "So Ore Can Spawn Every Y Pos Now So",
+      "The Guides That You Can Find Ores Easier",
+      "Iron: 53 - -55",
+      "<br/>",
+      "(I will add more in next update) "
+    ],
+    "groups": {
+      "First Steps": {
+        "position": [
+          -160,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:green_wool",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Recommend Ore Levels"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

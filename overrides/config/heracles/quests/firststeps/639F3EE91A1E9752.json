@@ -1,0 +1,42 @@
+{
+  "settings": {},
+  "dependencies": [
+    "24BA8B5BACEA1602"
+  ],
+  "tasks": {
+    "223E94AEE7399021": {
+      "type": "heracles:item",
+      "amount": 8,
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "rewards": {
+    "70565E842662A10E": {
+      "type": "heracles:item",
+      "item": {
+        "id": "minecraft:cobblestone"
+      }
+    }
+  },
+  "display": {
+    "title": "Acquire: minecraft:cobblestone",
+    "description": [
+      "<task task=\"223E94AEE7399021\" quest=\"639F3EE91A1E9752\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"70565E842662A10E\" quest=\"639F3EE91A1E9752\"/>"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "minecraft:cobblestone"
+    },
+    "groups": {
+      "First Steps": {
+        "position": [
+          -192,
+          -16
+        ]
+      }
+    }
+  }
+}

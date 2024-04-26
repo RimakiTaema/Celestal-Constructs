@@ -1,0 +1,75 @@
+{
+  "dependencies": [
+    "73D28C54B5FAFFA7"
+  ],
+  "tasks": {
+    "28B14D6BCD2379EB": {
+      "type": "heracles:item",
+      "item": "minecraft:diamond",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "3351F38A3C51E174": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:diamond",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "<task task=\"28B14D6BCD2379EB\" quest=\"3B31F510F66D9D02\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"3351F38A3C51E174\" quest=\"3B31F510F66D9D02\"/>"
+    ],
+    "groups": {
+      "First Steps": {
+        "position": [
+          -112,
+          16
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:diamond",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Acquire: minecraft:diamond"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

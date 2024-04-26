@@ -1,0 +1,43 @@
+{
+  "settings": {},
+  "dependencies": [
+    "24BA8B5BACEA1602"
+  ],
+  "tasks": {
+    "18A8F9AB778EBCC4": {
+      "type": "heracles:item",
+      "amount": 16,
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "rewards": {
+    "32A71BA3F33EF91D": {
+      "type": "heracles:item",
+      "item": {
+        "id": "minecraft:oak_log",
+        "count": 4
+      }
+    }
+  },
+  "display": {
+    "title": "Acquire: minecraft:oak_planks",
+    "description": [
+      "<task task=\"18A8F9AB778EBCC4\" quest=\"62E34361AE1D66C6\"/>",
+      "<hr/>",
+      "<hr/>",
+      "<reward reward=\"32A71BA3F33EF91D\" quest=\"62E34361AE1D66C6\"/>"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "minecraft:oak_planks"
+    },
+    "groups": {
+      "First Steps": {
+        "position": [
+          -192,
+          16
+        ]
+      }
+    }
+  }
+}

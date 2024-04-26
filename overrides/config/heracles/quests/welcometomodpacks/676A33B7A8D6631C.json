@@ -1,0 +1,35 @@
+{
+  "settings": {},
+  "tasks": {
+    "22B73F99FB36B12A": {
+      "title": "Welcome To Secondyou's Modded Pack",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Welcome To Secondyou's Modded Pack",
+    "description": [
+      "<h2>This Is First Test For Quests System</h2>",
+      "<hr/>",
+      "<task task=\"22B73F99FB36B12A\" quest=\"676A33B7A8D6631C\"/>",
+      "<hr/>",
+      "Don't Forget That First Version Has Bugs Or Missing Quests Path So Its Bad For Some Reason "
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "minecraft:green_wool"
+    },
+    "subtitle": {
+      "text": "This Is First Test For Quests System"
+    },
+    "groups": {
+      "Welcome To Modpacks": {
+        "position": [
+          0,
+          16
+        ]
+      }
+    }
+  }
+}

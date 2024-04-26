@@ -1,0 +1,70 @@
+{
+  "dependencies": [
+    "Just Norma Chest"
+  ],
+  "tasks": {
+    "Chest": {
+      "type": "heracles:item",
+      "item": "sophisticatedstorage:chest",
+      "amount": 4,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    },
+    "iron chest": {
+      "type": "heracles:item",
+      "item": "sophisticatedstorage:iron_chest",
+      "amount": 2,
+      "collection": "AUTOMATIC",
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Yea Chests Classic Storages But Its Upgradeable Same Pros And Cons As Barrel"
+    ],
+    "groups": {
+      "Storage&Makeshift Powers": {
+        "position": [
+          -126,
+          -108
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:map",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Upgradeable Chests"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

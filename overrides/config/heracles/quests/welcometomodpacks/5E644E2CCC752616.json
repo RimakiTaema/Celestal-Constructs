@@ -1,0 +1,35 @@
+{
+  "settings": {},
+  "dependencies": [
+    "676A33B7A8D6631C"
+  ],
+  "tasks": {
+    "20E96088E8EE86E8": {
+      "title": "Crash Issue",
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "title": "Crash Issue",
+    "description": [
+      "<task task=\"20E96088E8EE86E8\" quest=\"5E644E2CCC752616\"/>",
+      "<hr/>",
+      "So Crashes Issue",
+      "- Modern UI Crashes (mobile players issue)",
+      "Some can resolve by remove related mods (some feature will lost)"
+    ],
+    "icon": {
+      "type": "heracles:item",
+      "item": "minecraft:green_wool"
+    },
+    "groups": {
+      "Welcome To Modpacks": {
+        "position": [
+          -32,
+          -32
+        ]
+      }
+    }
+  }
+}
