@@ -78,34 +78,34 @@ Crashes/Breaking Problems
 
 <details>
 <summary>PC Specs</summary>
-Allocated RAM:
-Minimum: 3GB
+Allocated RAM: <br>
+Minimum: 3GB <br>
 Recommended: 6GB
+<br>
+CPU:<br>
+Minimum: Core i3-6100 Or AMD Athlon 3000G<br>
+Recommended: Core i5-11400 Or AMD Ryzen 5 5000<br>
 
-CPU:
-Minimum: Core i3-6100 Or AMD Athlon 3000G
-Recommended: Core i5-11400 Or AMD Ryzen 5 5000
-
-GPU:
-Minimum: Integrated GPU
-Recommended: Nvidia GeForce GTX 1080 Ti Or Radeon 6800 XT
+GPU:<br>
+Minimum: Integrated GPU<br>
+Recommended: Nvidia GeForce GTX 1080 Ti Or Radeon 6800 XT<br>
 </details>
 
 
 <details>
 <summary>Pojavlauncher</summary>
-RAM:
-Min: 4GB
-Rec: 6GB
+RAM:<br>
+Min: 4GB<br>
+Rec: 6GB<br>
 
-CPU:
-Minimum:
+CPU:<br>
+Minimum:<br>
 SD 645 MT Helio G80 Or Exynos 880
-Recommended:
-Dimensity 9300
+Recommended:<br>
+Dimensity 9300<br>
 
-GPU
-Minimum: Adreno 210
+GPU<br>
+Minimum: Adreno 210<br>
 Recommended: ``best phone gpu`` (Not Mobile GPU < #19)
 
 </details>
