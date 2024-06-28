@@ -1,3 +1,10 @@
+# Welcome To Secondyou Modded Pack Source Code&Mods
+This Repo Allows All User Can push updates to me to helps me update this i will playtest first thanks
+
+
+
+
+
 # Secondyou's Modded Pack
 
 The Modpacks For Pojav&Low End PC That Isn't Good Enough
