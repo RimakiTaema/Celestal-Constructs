@@ -1,69 +1,76 @@
-# Welcome To Secondyou Modded Pack Source Code&Mods
-This Repo Allows All User Can push updates to me to helps me update this i will playtest first thanks
+# Welcome to Celestial Constructs Source Code & Mods
 
+This repository allows all users to push updates to help me improve and update the modpack. I will playtest the updates before releasing them. Thank you for your support!
 
+Since Source Code isn't available on some stuff like
 
+- FTB Quests
+- Mods Files
 
+Since it's Copyrightable And Risk of copying You can push the changes on some configs
 
-# Secondyou's Modded Pack
+---
 
-The Modpacks For Pojav&Low End PC That Isn't Good Enough
+# **Celestial Constructs**
 
-# Update Roadmaps
-<details>
+**Transform your Minecraft world into an industrial powerhouse or an epic adventure!**  
+Compatible with both PC and PojavLauncher, this kitchen sink modpack combines a variety of mods, offering quests to add an extra layer of progression and challenges. Whether you're automating your world or exploring vast lands, there's something for everyone.
+
+---
+
+## Update Roadmaps
+
+### <details>
 <summary>0.0.1 (Released)</summary>
 
-Current Updates&Mods
-
-- ~~Refined&AE2 Addons~~ (Added)
+**Current Updates & Mods:**
+- ~~Refined & AE2 Addons~~ (Added)
 - ~~Locator Compass~~ (Added)
-- New Adventure&Biomes
+- New Adventure & Biomes
 - Jetpacks!!! Yay
-- ~~Quests&Shops~~ Only Quests
-- ~~New Menu's~~ Released
-- <Cancelled You Need To Install Manually>
+- ~~Quests & Shops~~ (Only Quests)
+- ~~New Menus~~ (Released)
+- <Cancelled: "You Need to Install Manually">
 
 </details>
 
+### <details>
+<summary>0.0.2a (Very Soon)</summary>
 
-<details>
-<summary>0.0.2a(Very Soon)</summary>
-
-- Greg Tech (Its Modern One)
+**Upcoming Features:**
+- Greg Tech (Modern Version)
 - Aether World
-- <Removed Due To Copyright Issue>
-- New Quests&Chapter
-- Slient Gear (Its Good I Tried But Its Freaking Hard To Understand)
+- <Removed Due to Copyright Issue>
+- New Quests & Chapters
+- Silent Gear (Difficult but worth trying!)
 - Mine Dimensions
 - RF Tools
   
 </details>
 
-# Known Bugs
+---
 
+## Known Bugs
 
 <details>
-<summary>Bugs&Crash</summary>
+<summary>Bugs & Crashes</summary>
 
-Known Bugs
+**Known Bugs:**
+- Powah Energy Cell doesn’t connect any cable (Optifine issue)
+- Pure Emerald mod’s pickaxe has broken drop rates for Pure Emeralds
+- Problems with solar cell power exporting
+- GUI lag issues
 
-- Powah Energy Cell Doesn't Connect Any Cable (Optfine problems)
-- Pure Emerald Mods Pickaxe Has Broken Drop Rates Of Pure Emerald
-- Problems With Solar Cell Powers Exporting
-- GUI Lags
-
-Crashes/Breaking Problems
-
-- Xaero Minimap Random Crashes
-- Solar Cell Mods Java Problems (Its Fine Now)
-- Modern Ui Crash (Pojavlauncher Related Issue)
+**Crashes/Breaking Problems:**
+- Xaero Minimap random crashes
+- Solar Cell mod Java-related problems (now fixed)
+- Modern UI crash (PojavLauncher related issue)
 
 </details>
 
+---
 
-
-# What's on the modpack?
-
+## What's in the Modpack?
 
 <details>
 <summary>Features List</summary>
@@ -79,58 +86,67 @@ Crashes/Breaking Problems
 
 </details>
 
+---
 
+## Requirements
 
-# Requirements
-
-<details>
+### <details>
 <summary>PC Specs</summary>
-Allocated RAM: <br>
-Minimum: 3GB <br>
-Recommended: 6GB<br>
-<br>
-CPU:<br>
-Minimum: Core i3-6100 Or AMD Athlon 3000G<br>
-Recommended: Core i5-11400 Or AMD Ryzen 5 5000<br>
-<br>
-GPU:<br>
-Minimum: Integrated GPU<br>
-Recommended: Nvidia GeForce GTX 1080 Ti Or Radeon 6800 XT<br>
-</details>
 
+**Allocated RAM:**  
+- Minimum: 3GB  
+- Recommended: 6GB  
 
-<details>
-<summary>Pojavlauncher</summary>
-RAM:<br>
-Min: 4GB<br>
-Rec: 6GB<br>
-<br>
-CPU:<br>
-Minimum:<br>
-SD 645 MT Helio G80 Or Exynos 880
-Recommended:<br>
-Dimensity 9300<br>
-<br>
-GPU<br>
-Minimum: Adreno 210<br>
-Recommended: ``best phone gpu`` (Not Mobile GPU < #19)
+**CPU:**  
+- Minimum: Core i3-6100 or AMD Athlon 3000G  
+- Recommended: Core i5-11400 or AMD Ryzen 5 5000  
+
+**GPU:**  
+- Minimum: Integrated GPU  
+- Recommended: Nvidia GeForce GTX 1080 Ti or Radeon 6800 XT  
 
 </details>
+
+### <details>
+<summary>PojavLauncher</summary>
+
+**RAM:**  
+- Minimum: 4GB  
+- Recommended: 6GB  
+
+**CPU:**  
+- Minimum: Snapdragon 645, MediaTek Helio G80, or Exynos 880  
+- Recommended: Dimensity 9300  
+
+**GPU:**  
+- Minimum: Adreno 210  
+- Recommended: Best available mobile GPU
+
+</details>
+
+---
 
 ## Installation Tutorial
-On the Modrinth app:
+
+### <details>
+<summary>On Modrinth App</summary>
+
+1. Go to the search tab  
+2. Search for "Celestial Constructs"  
+3. Hit install  
+
+</details>
+
+### <details>
+<summary>On PojavLauncher</summary>
+
+1. Open the "Create New Profile" tab  
+2. Click "Create Modpack Profile"  
+3. Search for "Celestial Constructs"  
+4. Select the modpack and hit install  
+
+</details>
+
 ---
-1. Go on the search tab<br>
-2. Look for "secondyous modded pack"<br>
-3. Hit install<br>
 
-On PoJav:
----
-1. Go on the "Create New Profile" tab<br>
-2. Click Create Modpack Profile<br>
-3. Look for "Secondyou's Modded Pack"<br>
-4. Click the modpack<br>
-5. Hit install<br>
-
-
-Use my modpack if you're on mobile or on a low-end pc!
+Use this modpack if you're seeking an industrial or adventure experience, whether you're on mobile or a low-end PC!
