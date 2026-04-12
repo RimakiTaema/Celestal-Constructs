@@ -10,6 +10,15 @@
                 "curseforge": "https://www.curseforge.com/minecraft/modpacks/celestal-constructs",
             }
         }
+    },
+    {
+        "id": "0.0.1a_04122026",
+        "releasedAt": 1775489400,
+        "promotions": {
+            "downloads": {
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/celestal-constructs",
+            }
+        }
     }
   ]
 }
